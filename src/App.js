@@ -8,7 +8,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather />
-        <p>
+        <footer>
           This project is created by{" "}
           <a
             href="https://www.linkedin.com/in/amanda-torres-brooks-6826b15a/"
@@ -25,7 +25,7 @@ export default function App() {
           >
             open sourced on GitHub
           </a>
-        </p>
+        </footer>
       </div>
     </div>
   );
